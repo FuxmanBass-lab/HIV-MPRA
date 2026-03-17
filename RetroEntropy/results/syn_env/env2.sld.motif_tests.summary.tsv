@@ -1,0 +1,9 @@
+scope	motif	n_in	n_out	delta_median_in_minus_out	p_one_sided_depletion	n_perm_effective
+all	SP	17	17	0.072402	0.856029	5000
+all	ETS	16	18	-0.048601	0.296941	5000
+cladeA	SP	6	27	-0.007586	0.527295	5000
+cladeA	ETS	8	25	0.087303	0.912018	5000
+cladeB	SP	2	32	0.012365	0.457309	5000
+cladeB	ETS	12	22	-0.032882	0.35173	5000
+cladeC	SP	11	23	-0.021694	0.35113	5000
+cladeC	ETS	9	25	-0.021694	0.377524	5000

@@ -1,0 +1,4 @@
+window_name	window_start	window_end_inclusive	metric	n_in	n_out	delta_median_in_minus_out	p_one_sided_depletion	n_perm_effective
+motifRegion	1486	1506	H(codon)	7	424	-0.577717	0.0206979	10000
+motifRegion	1486	1506	H(AA)	7	424	-0.084398	0.060394	10000
+motifRegion	1486	1506	H(codon|AA)	7	424	-0.250057	0.0433957	10000
