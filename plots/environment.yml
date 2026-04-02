@@ -1,0 +1,12 @@
+name: mpra-env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - biopython
+  - mafft
